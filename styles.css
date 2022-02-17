@@ -1,0 +1,17 @@
+body {
+  background: red;
+}
+
+.changecolor {
+  color: blue;
+}
+
+
+.changeFont {
+  font-size: 10rem;
+}
+
+
+.changeFontStyle {
+  font-style: italic;
+}
